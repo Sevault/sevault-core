@@ -2,7 +2,7 @@
 
 <img src="Icon.png" style="height: 60px;"/>
 
-Google Functions that power Bitgesell Sevault Wallet backend
+Google Firebase Functions that power Bitgesell Sevault Wallet backend
 
 ## Getting started
 
