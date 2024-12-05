@@ -1,7 +1,4 @@
 # sevault-core
-
-<img src="Icon.png" style="height: 60px;"/>
-
 Google Firebase Functions that power Bitgesell Sevault Wallet backend
 
 ## Getting started
